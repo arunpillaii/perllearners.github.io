@@ -3,5 +3,5 @@ layout: default
 title: Perl - Catalog
 permalink: /perl/
 ---
-- [scalars](scalars)
+- [Scalar Data otherwise Scalars](scalars)
 - [arrays](arrays)
